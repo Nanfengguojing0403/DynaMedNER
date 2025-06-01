@@ -1,8 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-GlobalPointer参考: https://github.com/gaohongkui/GlobalPointer_pytorch/blob/main/models/GlobalPointer.py
-稀疏多标签交叉熵损失参考: bert4keras源码
-"""
 import torch
 import torch.nn as nn
 import numpy as np
